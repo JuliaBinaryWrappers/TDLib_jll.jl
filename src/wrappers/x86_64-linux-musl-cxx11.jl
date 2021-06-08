@@ -4,7 +4,7 @@ export libtdjson
 using OpenSSL_jll
 using Zlib_jll
 JLLWrappers.@generate_wrapper_header("TDLib")
-JLLWrappers.@declare_library_product(libtdjson, "libtdjson.so.1.6.10")
+JLLWrappers.@declare_library_product(libtdjson, "libtdjson.so.1.7.4")
 function __init__()
     JLLWrappers.@generate_init_header(OpenSSL_jll, Zlib_jll)
     JLLWrappers.@init_library_product(
