@@ -1,296 +1,296 @@
 [[TDLib]]
 arch = "aarch64"
-git-tree-sha1 = "5209b92aad244e7b819af436ffbcd7b84befbf49"
+git-tree-sha1 = "7a265a283c732b42e5c59a35e985e6742246d5c2"
 os = "macos"
 
     [[TDLib.download]]
-    sha256 = "cc8ad302e39d9727e6ac4732ef46b9c332154b1ee0cd0db1f6d6035eab53df35"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.aarch64-apple-darwin.tar.gz"
+    sha256 = "686143dd46d4aad3efb4d1267a77403dc7ac952a8e710a6383d4c7a9553350a1"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.aarch64-apple-darwin.tar.gz"
 [[TDLib]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "81ab310c2f61aaff556692662c22f599b737d677"
+git-tree-sha1 = "fe12307e1949c28dd7e70861f362aa22a5d05be0"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "08727ab4ff8239a4db02f89bda65b63d72012881c2f59506a489c60b3b7cca71"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "3d94490f8039cbde0f6457d7d9c131f3c9c4fdd4f1c0e9bbb8c2d6c33bc3f365"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.aarch64-linux-gnu-cxx03.tar.gz"
 [[TDLib]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4bb5e1930b14993d4abca7abb5efee5580669110"
+git-tree-sha1 = "abc41a1b4b385b365c4189deffdc2e7619ea829b"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "d377e059d777ae3e14e4f306de96af951ef6e123b138d2ba1607707ed3e26e76"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "143c8504db4e91b803715d8f3c43078c1301900124030c1005871f809a286b51"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.aarch64-linux-gnu-cxx11.tar.gz"
 [[TDLib]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9bfb96e8e9302064a60657e72aee41c4f095d678"
+git-tree-sha1 = "707a39fd5e86277fbc0b2f9c2e4289486cc0c31c"
 libc = "musl"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "69ea29bdc30070b6addb23331170aa0aa09cd9162d8adadc6dc82b75b43d68e7"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "2d98abebadbd580d7d25fc702be53ccfb11e8a10b874f3f33500008bc5962d8b"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.aarch64-linux-musl-cxx03.tar.gz"
 [[TDLib]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9692fe9287918064b56c3521a814b1987297f261"
+git-tree-sha1 = "a5662de14b464347cde07a4b147cddf7c5882425"
 libc = "musl"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "f6ee6fba9bbdc7cb269215f82f536796aa767380797155681a6f0899a108f161"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "25ed6f28b24a8537c29763d6d6e75b1dc7aea368c42d7ddb834a4a6e5fd223d1"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.aarch64-linux-musl-cxx11.tar.gz"
 [[TDLib]]
 arch = "aarch64"
-git-tree-sha1 = "54712f454f73415a0ad7445f4d4f69c14ff5f0b4"
+git-tree-sha1 = "0e2538b12d21ba4eb2093c3664f76927102b3aff"
 os = "freebsd"
 
     [[TDLib.download]]
-    sha256 = "2afc30176358c20edbb26da6383d3722d5b611449b94ed3267719f04f086a77f"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "6a2b0cd81b919605694a4e8115c19c95655589357cdfc1ce1938e87ef32d0d1c"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.aarch64-unknown-freebsd.tar.gz"
 [[TDLib]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c7723e5d232f695aedb41c1dd4d6bd8b5b8dcca0"
+git-tree-sha1 = "c1d2ff3216ba275a350cdf12027a340ee9a4e2f9"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "17fe3f5bed8e0cc2b052221f37bd8e8be88f08a4c9f808e0007d27cf88fe1dd9"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "3755f51d14ee2f6ff4782d03bb53944a9781946f6d57007de23904b263c13dff"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[TDLib]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "57c7c13105782d9f3e9c8122e1038cb1eec716d4"
+git-tree-sha1 = "6ea6acbba5f72c314e8421b0dc6d78d240137d21"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "6350751712d57b1e8a8d64b23884e841c7b87193e2192871f255e8c264cd70fe"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "fb964ea54d8da3ae2c0e3248ddcdeb21216203a132dbc5aea45c3a38b6d78bc4"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[TDLib]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4a3a9ca369b3f3c9ede625d39828d42c5489caae"
+git-tree-sha1 = "81148884ac8589bfc4299dabbb111d259563c7db"
 libc = "musl"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "c9fb9e85dbaf24d40b0f7ebe8e369500745287499bd60d64609b98c0091a14a7"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "4c4c464ee38cea00f20afc2dcd7113b9a52525be5a45c3385d178bce68526946"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[TDLib]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a72c93cc1f64e2858578e1dd3023618d6f3b96c7"
+git-tree-sha1 = "b563a30f0acac2e4abd326c9d39abd2647fb222d"
 libc = "musl"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "ab64bb15e18110bd42971a2d07d455f96f59f8d4dac768dc3c3d6b3cd89da27b"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "9120dc0d2f8626202d09a1016aead91674652a07e59187ff94f9bcf056fe89cb"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[TDLib]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d51b80f9c42b53782098bbc74374341e9aa88410"
+git-tree-sha1 = "e72393e952c535ea225e6de975701015d69f7c1e"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "f0b0188155f7858ecea7cc0f5aee5499754e9e381bfd4cdd8711f36766cb737d"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "8614647ba43ba2e170ecd13116ed871f2f8b08a2712b7fc2a723da053f4e33f7"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[TDLib]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "256d9e9a02592c7da1bc0a55e59d5af323160842"
+git-tree-sha1 = "27ac6136bc11d2263b7c8738471cd84a0c38d30c"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "0fdb8255a1b759a66d7d46380b9c0309d31eb0cb6f5129a1a19a97d3360ad0e9"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "02a1c6923be16ebcd52863e67ad9d328cfb6072b79c54b58bc2e4bc8a92a0dbd"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[TDLib]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f1f32529e5223101e2649061d028f630ac08b309"
+git-tree-sha1 = "5d7d98d85c8bc2e7107755aed2ff90a678eed37e"
 libc = "musl"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "5329e5a7b00a18b16d74391fbed56374b4b03d9c6b94a0dcd24368b2d48c8752"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "570e572d3c4940492508ac270a1a78e23328388873b8a2e9bc19616ef8885b45"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[TDLib]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9614cc7e5e66d7f7c08d2c9222d5c1740bf54c71"
+git-tree-sha1 = "795ddaae52403a83d8dbcae56153d621efb8e005"
 libc = "musl"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "7569e53206763cc28491a222d61261f2117f6059868d6fb8707d903cf1100279"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "a62ef7007522d4067f076a40b4f2baf34caecf84d92a210464cf24330a7f0906"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[TDLib]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a4b185c429784bb878082e10bedf977021dde1c5"
+git-tree-sha1 = "b75b42f92471a36c81e6d54ddd24601f53f0fe6e"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "c9fae70d7ca3ad63e54a291dac71d82128ec656aa63133519486be9b1c293504"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "7c403d8c707a7d16ff7e71480637a974fcbcabda86df9dbed795a113de430483"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.i686-linux-gnu-cxx03.tar.gz"
 [[TDLib]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2f473aeb7996febffb7563664028e613c84c532f"
+git-tree-sha1 = "56b58ce6ce5f608a5a259d5b12d3b86f5d19085c"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "631ad6a6579f98290789d873650a30bd23f51ade157420945dc24544e3f6c2b8"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "3ce0ff82bdd532256b21462c9b5cc10452861587c92d0c6d130680d018783046"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.i686-linux-gnu-cxx11.tar.gz"
 [[TDLib]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "871afc7b9b7a7ca4b0f39675168a7cc2f32f3684"
+git-tree-sha1 = "74e8aeaf6349328e6922acf0a1ad0350b11def67"
 libc = "musl"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "1d6be80f137362885fdbc85703a8ba819fce632a096a0c09d9937c7847b1242a"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "53d27b77584ff25ee390d090a91d2938706eea016d2ef6ec05aec17196b31152"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.i686-linux-musl-cxx03.tar.gz"
 [[TDLib]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b8c9cf59fa8f44918590327047314c432553e8c"
+git-tree-sha1 = "2866b06b9442b8580adbd1cbb116acdf90a39be1"
 libc = "musl"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "211cc1d5a3cb6922a30a0735dd08d7cea31e5cb777c935e13f0124e6c28e7d1c"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "98fbc3a63ad203a084883142361611dbe15495df088b3442d2d9aca911e728be"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.i686-linux-musl-cxx11.tar.gz"
 [[TDLib]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2bd4579460e620dd7eec148229d0811348da45c3"
+git-tree-sha1 = "de61693f9c21270fc00f4f2a9aacf44526d28578"
 os = "windows"
 
     [[TDLib.download]]
-    sha256 = "894a6e064eac0adbabb28df024f9b2bfbd6c1cbf80a733a14af9c591a0609561"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "b6bb64e5057b8ba8dfedcb01a0e2385104c7221c33e6ffc83e4fb369b1576d0b"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.i686-w64-mingw32-cxx03.tar.gz"
 [[TDLib]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4a0404f0e923806c7d2c9de2b514ee6ae224b857"
+git-tree-sha1 = "97d769b3d5b8e55e908ffe85ac1fcd700f5e8b58"
 os = "windows"
 
     [[TDLib.download]]
-    sha256 = "b09761ecdf183c57de31b8afe7974c4f074a620e007bfc0d00e1ddf6bdf57697"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c2d617afb73501439cf7296a47eefbaea4a7f89a76393443d6b901f2bde526f4"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.i686-w64-mingw32-cxx11.tar.gz"
 [[TDLib]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9520e9c4834517ba76c419c85b61ba68210481d9"
+git-tree-sha1 = "b7b57421433c3856b4b5ce7cc61b7d053df1d432"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "69d843d77f821be1c7982446e8d5e4251d64a2d63d98c2e888c3b4907f74ea7c"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "b20085271a6903d5b15f1d23102724f27947982c6607a923f6e8a8a6e15084d0"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[TDLib]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "734f742cb082da1e85cec207c6fb13dfaf5d51cc"
+git-tree-sha1 = "b3472835695d19620f70b79a31168d1c6b4953ca"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "5638e1a3429a4fe4041c504e753cf5ff868af564500fb14ff7779116b6b84416"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "dc855a578a548f2f24a3e1188de40882aa812ecafb6e9e09767f4c5b94cae6a2"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[TDLib]]
 arch = "x86_64"
-git-tree-sha1 = "f826ab7b02f52ee692037ad32fc61d834526a085"
+git-tree-sha1 = "5e618bff567bef84964c76b313e3543ea34f2f71"
 os = "macos"
 
     [[TDLib.download]]
-    sha256 = "cefc2adebea3cba346d3c5e7e02508a7e3ba02d6d2e390d53377db2263895a69"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.x86_64-apple-darwin.tar.gz"
+    sha256 = "0c31a7457c506eb5f7af36ab55fb98f3292082fe1c23e644e323137d81f0b9e9"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.x86_64-apple-darwin.tar.gz"
 [[TDLib]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b7a226177ec02b4a944343daddc2e3fe40859538"
+git-tree-sha1 = "fa2d322a5f93411ee4019d46a129b797414bfca6"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "e2260ebbb65996591a2497535aa7d662e5d331d4f60de06f0b3d7bfe3ef07c28"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "7d5f2801b11a041d7c2b650b8d092f4c765389f343f734d59276d2c89f3f08a4"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.x86_64-linux-gnu-cxx03.tar.gz"
 [[TDLib]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e47ef722793d2091c911a9904b2883d7957a92dd"
+git-tree-sha1 = "319bafaf027328fbfafc3351127e41a91af4fa2f"
 libc = "glibc"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "cd43591906e360f2515eca5b6c8b8c0c250a4241312a43bfbff6ebd6d7a2667c"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2a4ac5e04dd415ea7ddc548cf801848bcbcbaf5bedd9916bcf64cff14d2900cd"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.x86_64-linux-gnu-cxx11.tar.gz"
 [[TDLib]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7bf7624c02470c1b2846fbb8b62c2c499a029452"
+git-tree-sha1 = "1a0a474321dd102df45628fe6849f0a8135b0947"
 libc = "musl"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "4e06fb95343cf4a68d03bb78d1fe9696eb1fb59b9bf38f63c6939253551acd10"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "7b28f11df9c1fbda75e26d54e5295f0eaa73c0034c707b6d20835e0421848cab"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.x86_64-linux-musl-cxx03.tar.gz"
 [[TDLib]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5ec873aea2de1dd44f4cb7a71f4ffd4185a197a0"
+git-tree-sha1 = "ce3f11fb9170cdaddabdf5f887015b6fc39e7d21"
 libc = "musl"
 os = "linux"
 
     [[TDLib.download]]
-    sha256 = "ed8c07f72a9e1fd3a48eed91c37fbd4e66163b1e2836d7a4e9533cb804c92439"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "4f129006ee5ce9962e87c3cea87362460ad5f50caf14149dc41724e47f88fc65"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.x86_64-linux-musl-cxx11.tar.gz"
 [[TDLib]]
 arch = "x86_64"
-git-tree-sha1 = "82065120eaa84437eca16f9ee95e21fb60760042"
+git-tree-sha1 = "9f0c779facffc2a032096867f87c617bf47c3041"
 os = "freebsd"
 
     [[TDLib.download]]
-    sha256 = "97ac35f53b3dcb6313c85a9e15eb9b75bc533f5b6054bfdab2b7fb557f722281"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "fca0c44a76b22f8e249c150512428a993ca44957593880db0019243ab95814cf"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.x86_64-unknown-freebsd.tar.gz"
 [[TDLib]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7cf02ae485988a012bbaba0b1fa967d70e2637d5"
+git-tree-sha1 = "b302f7fb338de3d1dbcbbe4335045fc95102a19c"
 os = "windows"
 
     [[TDLib.download]]
-    sha256 = "028446532f38c68c8de5b36204ce03f563d41bbda0a3bcf9e6a286e60bdc79df"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "3fa3e79d1822e8e973dc15be8022ac6eaa6fea4485223dd9bcce601cac094e20"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.x86_64-w64-mingw32-cxx03.tar.gz"
 [[TDLib]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4b6ba99339b894494054407916e4cc6cf531360f"
+git-tree-sha1 = "b2415ae34a9691657c93a6e851562e4a01d0f078"
 os = "windows"
 
     [[TDLib.download]]
-    sha256 = "a572510a4261a00b9fbe2d4262aad98499e51a8100a7ec27da13f1a54323b24c"
-    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.47+0/TDLib.v1.8.47.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "143d28affc5d17c5060d705565b98525e2cf34a7a6b708f1a3968b51a5ff38d1"
+    url = "https://github.com/JuliaBinaryWrappers/TDLib_jll.jl/releases/download/TDLib-v1.8.48+0/TDLib.v1.8.48.x86_64-w64-mingw32-cxx11.tar.gz"
